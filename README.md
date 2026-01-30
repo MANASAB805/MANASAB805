@@ -40,4 +40,4 @@
 ---
 
 ### 📬 Connect with Me
-[LinkedIn](https://linkedin.com/in/manasa-b-829631151) | [Email](mailto:reddymanasa583@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/manasa-balakrishna/) | [Email](mailto:reddymanasa583@gmail.com)
