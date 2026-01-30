@@ -5,39 +5,29 @@
 
 ---
 
-### 📊 Professional Snapshot
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANASAB805&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANASAB805&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180" />
-</p>
-
 ### 🎓 Certifications
-- ☁️ **AWS Certified Solutions Architect – Associate** (Valid until Aug 2026)
-- 📊 **AWS Certified Data Analytics – Specialty** (Valid until April 2027)
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 📊 **AWS Certified Data Analytics – Specialty**
 - 🤖 **AWS Partner: Generative AI on AWS Essentials**
 - 🏛️ **Oracle Cloud Infrastructure Foundation Associate**
 
 ---
 
 ### 🚀 Technical Arsenal
-- **Cloud:** AWS (EC2, S3, Lambda, VPC, Bedrock, Amazon Connect, Redshift)
-- **DevOps:** Terraform, Kubernetes, Docker, GitHub Actions, Jenkins, AWS CloudFormation
-- **Languages:** Python, Shell Scripting, SQL, PL/SQL
-- **Data & AI:** Amazon Lex, Bedrock, Power BI, Glue, QuickSight
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### ✍️ Content & Community
-- 📝 **Blogging:** [Insert Link to your Blog/Medium]
-- 🏗️ **Key Project:** Automated cloud cost-optimization using AWS Lambda, achieving a **~18% reduction** in stale resources.
-- 🌐 **Open Source:** Actively contributing to cloud-native and AWS-related tools.
-
----
-
-### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MANASAB805&theme=tokyonight)
+### 🏗️ Highlighted Impact
+- **Cloud Cost Optimization:** Automated resource cleanup using AWS Lambda (Python), reducing monthly costs by **~18%**.
+- **Customer Engagement:** Optimized solutions using Amazon Connect and Lex, improving efficiency by **20%**.
+- **DevSecOps:** Built CI/CD pipelines with GitHub Actions and Argo CD, automating secure Kubernetes deployments.
 
 ---
 
 ### 📬 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/manasa-balakrishna/) | [Email](mailto:reddymanasa583@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasa-b-829631151)
